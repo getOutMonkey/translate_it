@@ -1,2 +1,2 @@
 # translate_it
-# tempory project
+# temporary project
